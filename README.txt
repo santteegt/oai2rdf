@@ -140,4 +140,4 @@ Also, I made public some XSLT examples of DSPACE transformation to RDF using BIB
 You can find them on xslt_dspace folder.
 
 I made this tool available on Github because the MIT official wiki page http://simile.mit.edu/wiki/RDFizers is no longer 
-available. Thanks to Stefano Mazzocchi (LinkedIn: https://www.linkedin.com/in/stefanom) for his contributions to Linked Open Data.
+available. Thanks to Stefano Mazzocchi (GitHub: https://github.com/stefanom LinkedIn: https://www.linkedin.com/in/stefanom) for his contributions to Linked Open Data.
