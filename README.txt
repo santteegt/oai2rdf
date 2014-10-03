@@ -128,4 +128,16 @@ Have fun with your new fresh pile-o-data.
 
                                                   Stefano Mazzocchi
                                                 <stefanom at mit.edu>
+                                                
+                                                
+                        +-----------------------------+
+                        |          What's New??       |
+                        +-----------------------------+
 
+I provide the ListSets harvesting job. You can use it executing the script oai2rdf-ls.sh
+
+Also, I made public some XSLT examples of DSPACE transformation to RDF using BIBO, DCTERMS, MREL and FOAF vocabularies.
+You can find them on xslt_dspace folder.
+
+I made this tool available on Github because the MIT official wiki page http://simile.mit.edu/wiki/RDFizers is no longer 
+available. Thanks to Stefano Mazzocchi (LinkedIn: https://www.linkedin.com/in/stefanom) for his contributions to Linked Open Data.
